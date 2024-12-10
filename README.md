@@ -1,2 +1,2 @@
 # Professional-Statement
-My professional statement
+I am a dedicated programmer with a strong passion for problem-solving and a keen interest in cybersecurity. I am actively developing my skills in this field, with a focus on protecting sensitive information and ensuring customer security. My enthusiasm for pentesting drives my ambition to one day work as a penetration tester, where I can apply my technical expertise to safeguard systems and help organizations stay secure in an increasingly digital world.
